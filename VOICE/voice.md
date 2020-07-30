@@ -7,6 +7,8 @@
 
 **Version:** 1.0
 
+**License:** [CC by SA 4.0](https://creativecommons.org/about/cclicenses/)
+
 **Preferred citation:** Hadley, H. (2020). Data Evaluation Tool for Reuse, VOICE. [H. Hadley, Dataevaltools Github Repository]()
 
 **More about this evaluation tool:** 
